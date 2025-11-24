@@ -1,0 +1,68 @@
+{
+  "sport": "football",
+  "teams": {
+    "Offense": {
+      "Quarterbacks": [
+        {
+          "player_id": "jason_smith_4",
+          "full_name": "Jason Smith",
+          "number": 4,
+          "position": "QB",
+          "class_year": "FR"
+        },
+        {
+          "player_id": "tom_hardy_14",
+          "full_name": "Tom Hardy",
+          "number": 14,
+          "position": "QB",
+          "class_year": "SO"
+        },
+        {
+          "player_id": "malik_greene_2",
+          "full_name": "Malik Greene",
+          "number": 2,
+          "position": "QB",
+          "class_year": "SR"
+        }
+      ],
+      "Running Backs": [
+        {
+          "player_id": "james_williams_22",
+          "full_name": "James Williams",
+          "number": 22,
+          "position": "RB",
+          "class_year": "JR"
+        }
+      ],
+      "Wide Receivers": [
+        {
+          "player_id": "chris_johnson_11",
+          "full_name": "Chris Johnson",
+          "number": 11,
+          "position": "WR",
+          "class_year": "SO"
+        }
+      ]
+    },
+    "Defense": {
+      "Linebackers": [
+        {
+          "player_id": "mike_davis_55",
+          "full_name": "Mike Davis",
+          "number": 55,
+          "position": "LB",
+          "class_year": "SR"
+        }
+      ],
+      "Defensive Backs": [
+        {
+          "player_id": "tony_clark_24",
+          "full_name": "Tony Clark",
+          "number": 24,
+          "position": "CB",
+          "class_year": "JR"
+        }
+      ]
+    }
+  }
+}

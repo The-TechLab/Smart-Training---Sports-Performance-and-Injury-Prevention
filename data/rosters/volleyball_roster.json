@@ -1,0 +1,12 @@
+{
+    "sport": "volleyball",
+    "players": [
+        {
+            "player_id": "emily_volleyball_1",
+            "full_name": "Emily Volleyball",
+            "number": 5,
+            "position": "Setter",
+            "class_year": "JR"
+        }
+    ]
+}

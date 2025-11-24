@@ -1,0 +1,12 @@
+{
+    "sport": "soccer",
+    "players": [
+        {
+            "player_id": "alex_soccer_1",
+            "full_name": "Alex Soccer",
+            "number": 7,
+            "position": "Forward",
+            "class_year": "SR"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "sport": "basketball",
+    "players": [
+        {
+            "player_id": "john_basketball_1",
+            "full_name": "John Basketball",
+            "number": 10,
+            "position": "Guard",
+            "class_year": "JR"
+        }
+    ]
+}

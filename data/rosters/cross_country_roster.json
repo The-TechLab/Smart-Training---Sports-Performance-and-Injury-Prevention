@@ -1,0 +1,12 @@
+{
+    "sport": "cross_country",
+    "players": [
+        {
+            "player_id": "mike_cross_country_1",
+            "full_name": "Mike Cross Country",
+            "number": 3,
+            "position": "Distance Runner",
+            "class_year": "FR"
+        }
+    ]
+}
